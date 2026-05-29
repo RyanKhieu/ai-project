@@ -10,3 +10,8 @@ checkpoints/
 models/*.pt
 models/*.pth
 .streamlit/
+.DS_Store
+data/
+dataset/
+.github/
+cat_to_name.json
