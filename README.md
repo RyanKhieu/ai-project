@@ -1,5 +1,5 @@
 Dataset from:
-[text](https://www.kaggle.com/datasets/nunenuh/pytorch-challange-flower-dataset/data)
+[Kaggle](https://www.kaggle.com/datasets/nunenuh/pytorch-challange-flower-dataset/data)
 
 ## Setup
 
